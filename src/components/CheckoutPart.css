@@ -1,0 +1,68 @@
+#checkout .form {
+    padding: 30px 20px;
+    border: 1px solid rgb(183, 183, 183);
+}
+
+#checkout .form h4 {
+
+    font-weight: 900;
+    margin-bottom: 25px;
+
+}
+
+#checkout .form h6 {
+
+    font-weight: 900;
+    margin-bottom: 0px;
+
+}
+
+#checkout .form input {
+    border: 1px solid rgb(183, 183, 183);
+    border-radius: 0%;
+}
+
+#checkout .form label {
+
+    color: rgb(129 127 127);
+    margin-bottom: 8px;
+}
+
+#checkout .form input::placeholder {
+
+    color: rgb(129 127 127);
+
+}
+
+#checkout .form .radio label {
+
+    cursor: pointer;
+}
+
+#checkout .form p {
+
+    color: rgb(129 127 127);
+}
+
+:root {
+    accent-color: #472d8c;
+}
+
+.form-check .payment_methods {
+    float: left;
+    margin-left: -1.5em;
+    width: 1em;
+    height: 1em;
+    margin-top: 0.25em;
+}
+
+#checkout .form .form-check p {
+    font-size: 12px;
+    display: none;
+    
+}
+
+
+#checkout .show {
+    display: block !important;
+}

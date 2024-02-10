@@ -1,0 +1,77 @@
+.banner .row {
+
+    position: relative;
+}
+
+.banner .row::before {
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-image: url(../assets/images/banner.jpg);
+    background-repeat: no-repeat;
+    z-index: -1;
+    padding: 227px 0px;
+    background-size: cover;
+    background-position: top;
+}
+
+
+.banner p {
+    font-size: 15px;
+}
+
+.banner h1 {
+
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 65px;
+    color: black;
+    line-height: 54px;
+    margin-bottom: 0px;
+}
+
+
+.banner .btn {
+    color: rgb(227, 29, 26);
+
+}
+
+.banner .btn:hover {
+    color: white;
+    font-weight: 500;
+}
+
+.banner .button__inner {
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px 14px;
+    z-index: 2;
+    display: block;
+    overflow: hidden;
+    position: relative;
+    background-color: transparent;
+    border: 2px solid rgb(227, 29, 26);
+
+}
+
+.banner .btn:active,
+.banner .btn:focus {
+    outline: none;
+}
+
+.banner .btn:hover .button__content::before {
+    width: calc(100% + 2rem);
+}
+
+.banner .button__content::before {
+    top: 0;
+    width: 0;
+    z-index: -1;
+    content: "";
+    left: -0.8rem;
+    display: block;
+    bottom: -0.1rem;
+    position: absolute;
+    background-color: rgb(227, 29, 26);
+    transition: all 0.3s ease-in-out;
+    font-weight: 500;
+  }

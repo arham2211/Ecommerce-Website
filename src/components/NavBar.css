@@ -1,0 +1,29 @@
+.text-grey p{
+
+
+    font-size: 12px;
+    
+}
+
+.nav-bar .nav-item a{
+    font-size: 14px;
+    color: black;
+}
+
+.nav-bar .nav-item a:hover{
+    background-color: rgb(255 94 24);
+    color: white;
+}
+
+.nav .nav-item a.active{
+    background-color: rgb(255 94 24);
+    color: white;
+}
+
+
+
+.phone {
+    background-color: #fceee7;
+
+       
+}

@@ -1,0 +1,59 @@
+#footer h3 {
+    font-family: 'Bebas Neue', sans-serif;
+    color: rgb(232, 97, 39);
+    font-size: 34px;
+}
+
+#footer p {
+    color: #686868;
+    font-size: 14px;
+    margin: 0%;
+}
+
+.link{
+   
+    font-size: 16px;
+   
+}
+
+    .link a:hover{
+   
+    text-decoration: underline !important;
+   
+}
+
+#footer li {
+    color: #686868;
+    padding-bottom: 9px;
+}
+
+#footer .socialMedia a {
+    padding: 7px 10px;
+    color: white;
+    font-size: 22px;
+}
+
+
+#footer .socialMedia a.facebook:hover {
+
+    background: #3B5999;
+}
+
+#footer .socialMedia a.instagram:hover {
+
+    background: #f09433;
+    background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+    background: -webkit-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+    background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+  
+}
+
+#footer .socialMedia a.twitter:hover {
+
+    background: #46C1F6;
+}
+
+#footer .socialMedia a.linkdin:hover {
+
+    background: black;
+}

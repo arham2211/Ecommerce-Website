@@ -1,0 +1,553 @@
+@media screen and (min-width: 1400px) {
+
+
+    #slider .slick-prev {
+
+
+        left: 1120px !important;
+    }
+
+    #slider .slick-next {
+        right: 120px !important;
+    }
+
+    #feature-product .slick-prev {
+
+
+        left: 790px !important;
+    }
+
+    #feature-product .slick-next {
+        right: 120px !important;
+    }
+
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+
+
+    #slider .slick-prev {
+
+
+        left: 810px !important;
+    }
+
+    .nav-bar .nav-item a {
+        font-size: 12px !important;
+
+    }
+
+
+    #feature-product .slick-prev {
+
+
+        left: 500px !important;
+    }
+
+    #feature-product .slick-next {
+        right: 77px !important;
+    }
+
+
+    .popular p {
+
+        font-size: 12px !important;
+
+    }
+
+
+    .popular h4 {
+
+        font-size: 20px !important;
+    }
+
+    .subPart1 h1 {
+
+        font-size: 56px !important;
+
+    }
+
+    #product-part .product {
+
+        width: fit-content !important;
+    }
+
+    .round h1 {
+        font-size: 40px !important;
+    }
+
+    .round p {
+        font-size: 14px !important;
+    }
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+
+
+    #slider .slick-prev {
+
+
+        left: 620px !important;
+
+    }
+
+    #slider .slick-next {
+        position: relative !important;
+        right: -663px !important;
+        top: -116% !important;
+
+    }
+
+    #feature-product .slick-prev,
+    #feature-product .slick-next {
+
+
+        display: none !important;
+    }
+
+
+    #header i {
+        font-size: 16px !important;
+    }
+
+    #header a.rounded-circle {
+        height: 40px !important;
+        width: 44px !important;
+        display: flex !important;
+        align-items: center !important;
+    }
+
+    #header .input {
+
+        width: 335px !important;
+    }
+
+    #header .input input::placeholder {
+        font-size: 15px !important;
+    }
+
+    #section .box {
+
+        margin-bottom: 27px !important;
+    }
+
+    #slider .product {
+
+        width: 238px !important;
+    }
+
+    .service {
+        padding-left: 20px !important;
+
+    }
+
+    #feature-product .premium {
+
+        padding-bottom: 14px !important;
+    }
+
+    #feature-product .product {
+
+        width: 239px !important;
+    }
+
+    #subscribe .email input {
+
+        padding: 11px 6px !important;
+    }
+
+    #subscribe .email input::placeholder {
+
+        font-size: 13px !important;
+    }
+
+    #subscribe .email button {
+
+        font-size: 13px !important;
+
+    }
+
+    #subscribe .heading h3 {
+        font-size: 24px !important;
+    }
+
+    #footer li {
+
+        font-size: 13px !important;
+    }
+
+    #footer p {
+
+        font-size: 13px !important;
+
+    }
+
+    #product-part .product {
+
+        width: fit-content !important;
+    }
+
+    #cart button {
+        padding: 15px 37px !important;
+    }
+}
+
+@media screen and (min-width: 576px) and (max-width: 767px) {
+
+
+    #slider .slick-prev {
+
+
+        left: 229px !important;
+        top: 110% !important;
+    }
+
+    #slider .slick-next {
+
+        right: 243px !important;
+        top: 108% !important;
+
+    }
+
+    #feature-product .slick-prev,
+    #feature-product .slick-next {
+
+
+        display: none !important;
+    }
+
+    #section {
+        margin: 64px 0px !important;
+    }
+
+    #section .box {
+
+        margin-bottom: 27px !important;
+    }
+
+    #slider {
+        margin-bottom: 135px !important;
+        margin-top: 70px !important;
+    }
+
+    #slider h2 {
+        font-size: 60px !important;
+    }
+
+    #slider .product {
+        border: 1px solid #d9d9d9 !important;
+        width: 241px !important;
+    }
+
+    .custom-container {
+        max-width: 540px !important;
+    }
+
+    #subscribe {
+        margin-bottom: 66px !important;
+    }
+
+    .service {
+
+        margin-top: 135px !important;
+    }
+
+    .link {
+        font-size: 15px !important;
+    }
+
+
+    .subPart1 h1 {
+
+        font-size: 84px !important;
+        text-align: center !important;
+        margin-bottom: 30px !important;
+    }
+
+    .subPart1 h2 {
+
+        text-align: center !important;
+    }
+
+    #product-part .product {
+
+        width: 260px !important;
+    }
+
+    #product-part h5 {
+        font-size: 15px !important;
+    }
+
+    #product-part h6 {
+        font-size: 15px !important;
+    }
+
+    #cart .cart {
+        padding: 4px 31px !important;
+    }
+
+    #cart .cross {
+
+        font-size: 20px !important;
+        padding: 2px 12px !important;
+    }
+
+    #cart button {
+        padding: 15px 15px !important;
+    }
+
+    #cart .small p {
+        font-size: 12px !important;
+    }
+
+    #cart .img {
+
+        padding: 10px 0px !important;
+    }
+
+    #cart thead th {
+
+        font-size: 14px !important;
+    }
+
+    #ProductDetail .view {
+        
+        padding: 80px 20px !important;
+    }
+
+    #ProductDetail .rectangle {
+       
+        margin-top: 25px !important;
+    }
+
+    #ProductDetail .rectangle h4 {
+       font-size: 19px !important;
+    }
+}
+
+@media screen and (max-width: 575px) {
+
+    #header .bg-dark img {
+        height: 77px !important;
+    }
+
+    .nav-bar.nav {
+
+        display: none !important;
+    }
+
+    .nav-bar.nav.show {
+        display: block !important;
+
+    }
+
+    #NavBar .input button {
+
+        margin-right: 20px !important;
+        font-weight: 600 !important;
+        font-size: 11px !important;
+    }
+
+    #NavBar .input input::placeholder {
+
+        font-size: 12px !important;
+    }
+
+    #NavBar button {
+        border-radius: 0% !important;
+    }
+
+    #NavBar button:focus {
+
+        border: 4px solid rgb(255 94 24) !important;
+        box-shadow: none !important;
+    }
+
+    #NavBar span i {
+
+        font-size: 20px !important;
+        font-weight: 900 !important;
+    }
+
+    .nav-pills .nav-link {
+
+        font-size: 11px !important;
+    }
+
+    .para p {
+        font-size: 12px !important;
+    }
+
+    .banner h1 {
+
+        font-size: 40px !important;
+    }
+
+    .button__inner .button__content {
+        font-size: 12px !important;
+    }
+
+    .banner .button__inner {
+
+        padding: 11px 12px !important;
+    }
+
+    .banner p {
+        font-size: 11px !important;
+    }
+
+    #slider .product {
+
+        margin-right: 0px !important;
+    }
+
+    #slider .slick-prev {
+        left: 59px !important;
+        top: 61% !important;
+        z-index: 2 !important;
+    }
+
+    #slider .slick-next {
+
+        right: 60px !important;
+        top: 59% !important;
+
+    }
+
+    #feature-product .slick-prev,
+    #feature-product .slick-next {
+
+
+        display: none !important;
+    }
+
+    #section {
+        margin: 64px 0px !important;
+    }
+
+    #section .box {
+
+        margin-bottom: 27px !important;
+    }
+
+    #slider {
+        margin-bottom: 82px !important;
+        margin-top: 70px !important;
+    }
+
+    #slider h2 {
+        font-size: 60px !important;
+    }
+
+    #slider .product {
+        border: 1px solid #d9d9d9 !important;
+        width: 241px !important;
+    }
+
+
+
+    #subscribe {
+        margin-bottom: 66px !important;
+    }
+
+    #feature-product .premium {
+
+        padding-top: 400px !important;
+        padding-bottom: 36px !important;
+    }
+
+    .premium h5 {
+
+        color: rgb(255 94 24) !important;
+    }
+
+    #feature-product .product {
+        border: 1px solid #d9d9d9 !important;
+        width: auto !important;
+    }
+
+    .link {
+        font-size: 15px !important;
+    }
+
+
+    .subPart1 h1 {
+
+        font-size: 44px !important;
+        line-height: 52px !important;
+    }
+
+    #product-part .product {
+
+        width: initial !important;
+    }
+
+    #product-part h5 {
+        font-size: 15px !important;
+    }
+
+    #product-part h6 {
+        font-size: 15px !important;
+    }
+
+    #contact .form h1 {
+        font-size: 40px !important;
+    }
+
+    #cart .cart {
+        padding: 4px 23px !important;
+    }
+
+    #cart .cross {
+
+        font-size: 12px !important;
+        padding: 2px 8px !important;
+    }
+
+    #cart button {
+        padding: 12px !important;
+        font-size: 12px !important;
+    }
+
+    #cart .shop {
+        font-size: 12px !important;
+        text-align: center !important;
+    }
+
+    #cart .small p {
+        font-size: 12px !important;
+    }
+
+    #cart .img {
+
+        padding: 10px 0px !important;
+    }
+
+    #cart thead th {
+
+        font-size: 12px !important;
+    }
+
+    #ProductDetail .view {
+        
+        padding: 80px 20px !important;
+    }
+
+    #ProductDetail .rectangle {
+       
+        margin-top: 25px !important;
+    }
+
+    #ProductDetail .rectangle h4 {
+       font-size: 13px !important;
+    }
+
+    #ProductDetail #description p {
+        line-height: 20px !important;
+        font-size: 12px !important;
+        text-align: center !important;
+    }
+}

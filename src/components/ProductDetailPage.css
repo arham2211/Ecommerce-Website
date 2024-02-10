@@ -1,0 +1,182 @@
+
+#ProductDetail .view {
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.7);
+    padding: 136px 20px;
+}
+
+
+#ProductDetail .part .sub_part {
+
+    padding: 16px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    box-shadow: 1px 0px 16px 0px rgba(1, 1, 1, 0.17);
+    margin: 0px 11px;
+    cursor: pointer;
+}
+
+#ProductDetail i {
+
+    font-size: 20px;
+    color: #c8c8c8;
+    cursor: pointer;
+}
+
+#ProductDetail span i {
+
+
+    color: #ffba00;
+}
+
+#ProductDetail .minus,
+#ProductDetail .plus {
+
+    padding: 1px 9px;
+    border-radius: 50px;
+    border: 1px solid rgb(210, 210, 210);
+    cursor: pointer;
+}
+
+#ProductDetail .minus:hover,
+#ProductDetail .plus:hover {
+    color: white;
+    background-color: rgb(232, 97, 39);
+
+}
+
+#ProductDetail .num {
+    padding: 11px 32px;
+    border: 1px solid rgb(210, 210, 210);
+}
+
+#ProductDetail button {
+
+    background-color: rgb(232, 97, 39);
+    color: white;
+    border-radius: 0%;
+    padding: 14px 55px;
+    font-weight: 900;
+    font-size: 19px;
+}
+
+#ProductDetail .rectangle {
+
+    padding: 30px 1px;
+    margin-top: 60px;
+    text-align: center;
+    background-color: rgb(241, 241, 241);
+    cursor: pointer;
+
+}
+
+#ProductDetail .rectangle:hover {
+
+    background-color: rgb(232, 97, 39);
+}
+#ProductDetail .rectangle:hover h4{
+    
+    color: white !important;
+
+}
+
+#ProductDetail .rectangle h4 {
+
+    font-weight: 900;
+    margin-bottom: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#ProductDetail #description,
+#ProductDetail #information,
+#ProductDetail #review {
+
+    display: none;
+
+}
+
+#ProductDetail #description p {
+
+    line-height: 35px !important;
+    font-size: 18px !important;
+    color: black !important;
+}
+
+#ProductDetail #information p {
+
+    line-height: 35px !important;
+    font-size: 18px !important;
+    color: black !important;
+}
+
+#ProductDetail .popular {
+    border: 2px solid rgb(231, 231, 231);
+    justify-content: space-between;
+    transition: transform .4s
+}
+
+#ProductDetail .popular:hover {
+    border: 2px solid rgb(232, 97, 39);
+    transform: scale(1.04);
+}
+
+#ProductDetail .popular h4 {
+    font-family: 'Bebas Neue', sans-serif;
+    color: black;
+    margin-bottom: 0px;
+    font-size: 21.09px;
+}
+
+#ProductDetail .h2 h2{
+    font-family: 'Bebas Neue', sans-serif;
+    color: black;
+    margin-bottom: 0px;
+    font-size: 60px;
+    
+}
+
+#ProductDetail .h2 p, 
+#ProductDetail .popular p {
+    font-family: 'Montserrat', sans-serif;
+    color: #686868;
+    margin-bottom: 1%;
+    font-size: 13px;
+}
+
+#ProductDetail .popular p span {
+    color: black;
+    font-weight: 600;
+}
+
+#ProductDetail .popular a {
+    color: rgb(232, 97, 39);
+    font-weight: 600;
+    font-size: 14px;
+}
+
+
+.pointer{
+    cursor:pointer;
+  }
+  .accordian-link h3{
+    font-size:clamp(18px,2vw,30px);
+  }
+  .user_image{
+    width:50px;
+    height:50px;
+    object-fit:contain;
+    background:#00000030;
+    border-radius:50%;
+    padding:.20rem;
+  }
+  .review_answer{
+    max-height:150px;
+    overflow-y:auto;
+  }
+
+
+
+.rectangle.orange {
+    background-color: rgb(232, 97, 39)!important;
+    color: white!important;
+}

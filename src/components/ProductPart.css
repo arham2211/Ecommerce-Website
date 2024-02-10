@@ -1,0 +1,140 @@
+#product-part {
+
+    margin-top: 100px;
+    margin-bottom: 70px;
+}
+
+#product-part h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    color: black;
+    line-height: 52px;
+
+}
+
+#product-part .product {
+    border: 1px solid #d9d9d9;
+    width: 260px
+}
+
+#product-part .product .image {
+
+    min-height: 269px;
+}
+
+#product-part .product:hover {
+    border: 1px solid rgb(255 94 24);
+}
+
+#product-part .product:hover .image {
+    border-bottom: 1px solid rgb(255 94 24) !important;
+}
+
+#product-part .product:hover button {
+    background-color: rgb(255 94 24);
+    color: white;
+    border: 1px solid rgb(255 94 24);
+}
+
+#product-part .product h3 {
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+#product-part .review p {
+
+    font-size: 13px;
+}
+
+#product-part .dollar p {
+    font-size: 16px !important;
+    color: rgb(255 94 24);
+}
+
+#product-part pre {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: rgb(10, 205, 20);
+
+}
+
+#product-part .dollar p span {
+    font-size: 14px !important;
+
+}
+
+#product-part button.btn {
+
+    color: rgb(102, 102, 102);
+    border: 1px solid #aeaeae;
+    font-size: 13px;
+
+}
+
+#product-part .refine {
+
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.12);
+    padding: 15px 15px;
+
+}
+
+#product-part .refine h5 {
+
+    margin-bottom: 0px;
+    font-weight: 600;
+    color: rgb(232, 97, 39);
+
+}
+
+#product-part h5 {
+    color: black;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+
+#product-part h6 {
+    color: #666666;
+    margin-bottom: 0px;
+    font-weight: 600;
+}
+
+#product-part ul {
+
+    border-radius: 0%;
+}
+
+#product-part ul li {
+
+    border: 1px solid #d0c8c8f0;
+    padding: 14px 14px;
+    margin-top: 7px;
+    color: black;
+    font-weight: 900;
+
+}
+
+#product-part .price {
+
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.12);
+    padding: 15px 15px;
+    margin-top: 30px;
+
+}
+
+#product-part .price h5 {
+
+    margin-bottom: 0px;
+    font-weight: 600;
+    color: black;
+
+}
+
+#product-part .v_list ul li {
+
+    border: 1px solid #d0c8c8f0;
+    padding: 14px 14px;
+    margin-top: 7px;
+    color: #666666;
+    font-weight: 900;
+
+}

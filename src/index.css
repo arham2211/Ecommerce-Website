@@ -1,0 +1,52 @@
+* {
+
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+
+}
+
+html {
+
+  scroll-behavior: smooth;
+}
+
+body {
+  overflow-x: hidden;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.bg-orange {
+  background-color: rgb(255 94 24);
+}
+
+.text-orange {
+
+  color: rgb(255 94 24) !important;
+}
+
+.text-grey {
+
+  color: rgba(0, 0, 0, 0.659) !important;
+}
+
+.bg-dark {
+
+  background-color: black !important;
+}
+
+.border-left {
+  border-left: 1px solid #d9d9d9;
+
+}
+
+.border-right {
+  border-right: 1px solid #d9d9d9;
+
+}
+
+.border-bottom {
+  border-bottom: 1px solid #d9d9d9 !important;
+
+}
+

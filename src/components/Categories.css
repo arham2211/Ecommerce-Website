@@ -1,0 +1,50 @@
+.popular {
+    border: 2px solid #d9d9d9;
+    justify-content: space-between;
+    transition: transform .4s
+}
+
+.popular:hover {
+    border: 2px solid rgb(232, 97, 39);
+    transform: scale(1.02);
+}
+
+.popular h4 {
+    font-family: 'Bebas Neue', sans-serif;
+    color: black;
+    margin-bottom: 0px;
+}
+
+.popular h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    color: black;
+    margin-bottom: 0px;
+
+}
+
+.category h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    color: black;
+    margin-bottom: 0px;
+    font-size: 60px;
+}
+
+.category p {
+    font-size: 13px;
+
+}
+
+.popular p {
+
+
+    margin-bottom: 1%;
+    font-size: 13px;
+    color: black;
+}
+
+
+.popular a {
+    color: rgb(232, 97, 39);
+    font-weight: 600;
+    font-size: 14px;
+}

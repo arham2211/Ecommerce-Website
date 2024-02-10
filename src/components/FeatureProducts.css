@@ -1,0 +1,142 @@
+#feature-product {
+
+    margin-top: 100px;
+    margin-bottom: 70px;
+}
+
+#feature-product h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    color: black;
+    line-height: 52px;
+
+}
+
+#feature-product .product {
+    border: 1px solid #d9d9d9;
+    width: 260px
+}
+
+#feature-product .product .image {
+
+    min-height: 269px;
+}
+
+#feature-product .product:hover {
+    border: 1px solid rgb(255 94 24);
+}
+
+#feature-product .product:hover .image {
+    border-bottom: 1px solid rgb(255 94 24) !important;
+}
+
+#feature-product .product:hover button {
+    background-color: rgb(255 94 24);
+    color: white;
+    border: 1px solid rgb(255 94 24);
+}
+
+#feature-product .product h3 {
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+#feature-product .review p {
+
+    font-size: 13px;
+}
+
+#feature-product .dollar p {
+    font-size: 16px !important;
+    color: rgb(255 94 24);
+}
+
+#feature-product pre {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: rgb(10, 205, 20);
+
+}
+
+#feature-product .dollar p span {
+    font-size: 14px !important;
+
+}
+
+#feature-product button.btn {
+
+    color: rgb(102, 102, 102);
+    border: 1px solid #aeaeae;
+    font-size: 13px;
+
+}
+
+
+#feature-product .slick-slide img {
+    display: inline;
+}
+
+
+#feature-product .slick-prev:before {
+
+    content: '➝';
+    background-color: rgb(255 94 24 / 63%);
+    font-size: 35px;
+    padding: 9px 12px 14px 12px;
+    border-radius: 50%;
+    opacity: 1;
+
+}
+
+#feature-product .slick-prev {
+
+    transform: rotate(180deg);
+    top: -18% !important;
+    left: 710px;
+}
+
+#feature-product .slick-next {
+    right: 77px;
+}
+
+#feature-product .slick-next:before {
+    content: '➝';
+    background-color: rgb(255 94 24 / 63%);
+    font-size: 35px;
+    padding: 9px 12px 14px 12px;
+    border-radius: 50%;
+    opacity: 1;
+}
+
+#feature-product .slick-prev:hover::before,
+#feature-product .slick-next:hover::before {
+
+    background-color: rgb(255 94 24);
+}
+
+#feature-product .slick-next {
+
+    top: -20%;
+
+}
+
+#feature-product .premium {
+
+    background: url(../assets/images/bg.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 382px;
+    padding-bottom: 36px;
+}
+
+#feature-product .premium h5 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 25px;
+}
+
+
+#feature-product .premium h3 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 42px;
+    line-height: 36px;
+    margin-bottom: 0px;
+}

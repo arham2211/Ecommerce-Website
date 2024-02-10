@@ -1,0 +1,118 @@
+#slider {
+
+    margin-bottom: 100px;
+}
+
+#slider h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    color: black;
+    line-height: 52px;
+
+}
+
+#slider .product {
+    border: 1px solid #d9d9d9;
+    margin-right: 20px;
+}
+
+#slider .product .image {
+
+    min-height: 269px;
+}
+
+#slider .product:hover {
+    border: 1px solid rgb(255 94 24);
+}
+
+#slider .product:hover .image {
+    border-bottom: 1px solid rgb(255 94 24) !important;
+}
+
+#slider .product:hover button {
+    background-color: rgb(255 94 24);
+    color: white;
+    border: 1px solid rgb(255 94 24);
+}
+
+#slider .product h3 {
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+#slider .review p {
+
+    font-size: 13px;
+}
+
+#slider .dollar p {
+    font-size: 16px !important;
+    color: rgb(255 94 24);
+}
+
+#slider pre {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: rgb(10, 205, 20);
+
+}
+
+#slider .dollar p span {
+    font-size: 14px !important;
+
+}
+
+#slider button.btn {
+
+    color: rgb(102, 102, 102);
+    border: 1px solid #aeaeae;
+    font-size: 13px;
+
+}
+
+
+.slick-slide img {
+    display: inline;
+}
+
+
+.slick-prev:before {
+
+    content: '➝';
+    background-color: rgb(255 94 24 / 63%);
+    font-size: 35px;
+    padding: 9px 12px 14px 12px;
+    border-radius: 50%;
+    opacity: 1;
+
+}
+
+.slick-prev {
+
+    transform: rotate(180deg);
+    top: -18% !important;
+    left: 1000px;
+}
+
+.slick-next {
+    right: 77px;
+}
+
+.slick-next:before {
+    content: '➝';
+    background-color: rgb(255 94 24 / 63%);
+    font-size: 35px;
+    padding: 9px 12px 14px 12px;
+    border-radius: 50%;
+    opacity: 1;
+}
+
+.slick-prev:hover::before,
+.slick-next:hover::before {
+
+    background-color: rgb(255 94 24);
+}
+
+.slick-next {
+
+    top: -20%;
+
+}

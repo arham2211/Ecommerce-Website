@@ -1,0 +1,29 @@
+#section{
+
+    margin: 90px 0px;
+}
+
+#section .box {
+    border: 2px dashed rgb(255 94 24);
+    border-radius: 1%;
+    padding: 21px 20px;
+   
+}
+#section .box:hover {
+    
+    box-shadow: -3px 6px 11px 6px rgb(255 94 24);
+    border: 1px solid rgb(255 94 24);
+
+}
+
+#section .box h3 {
+    font-family: 'Bebas Neue', sans-serif;
+    color: black;
+    margin-bottom: 0px;
+}
+
+#section .box p {
+    margin: 0px;
+    line-height: 21px;
+}
+

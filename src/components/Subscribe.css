@@ -1,0 +1,53 @@
+#subscribe{
+
+    margin-bottom: 80px;
+}
+
+#subscribe .email {
+    display: flex;
+    background-color: #b54c1e;
+}
+
+#subscribe .email input {
+    color: white;
+    border-radius: 0%;
+    box-shadow: none;
+    border: none;
+    background-color: transparent;
+    padding: 16px 18px;
+}
+
+#subscribe input::placeholder {
+    color: white;
+}
+
+#subscribe .email button {
+    background-color: white;
+    border-radius: 0%;
+    color: rgb(232, 97, 39);
+    padding: 0px 24px;
+    margin: 5px;
+    font-weight: 600;
+}
+
+
+
+#subscribe .heading {
+    font-family: 'Bebas Neue', sans-serif;
+    margin-bottom: 0px;
+}
+
+#subscribe .heading h3 {
+    font-size: 32px;
+}
+
+#subscribe .heading h2 {
+    font-size: 45px;
+    line-height: 30px;
+}
+
+#subscribe .heading p {
+    font-family: 'Montserrat', sans-serif !important;
+    font-size: 14px;
+    margin-bottom: 0%;
+}

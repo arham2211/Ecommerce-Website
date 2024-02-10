@@ -1,0 +1,87 @@
+#header {
+
+    border-bottom: 1px solid #d9d9d9;
+}
+
+#header i {
+
+    font-size: 22px;
+}
+
+#header a.rounded-circle:hover i {
+
+    color: black !important;
+    text-align: center;
+}
+
+#header a.rounded-circle {
+
+    height: 53px;
+    width: 53px;
+}
+
+#header .nav li {
+
+    border-right: 1px solid #d9d9d9;
+
+}
+
+.nav-pills li a {
+
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+.nav-pills li a:hover {
+
+
+    color: rgb(255 94 24);
+}
+
+/* HEADER INPUT BUTTON */
+#header .input {
+
+    background-color: #e3e3e3;
+    width: 410px;
+}
+
+#header .input input {
+
+    box-shadow: none;
+    border: none;
+    background-color: transparent;
+}
+
+#header .input input::placeholder {
+    color: rgba(0, 0, 0, 0.659);
+    font-weight: 900;
+}
+
+#header .input button {
+
+    margin: 5px;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+/* HEADER CART */
+#header .cart {
+
+    background-color: #fceee7;
+    padding: 10px;
+
+}
+
+#header .cart:hover {
+
+  cursor: pointer;
+}
+
+
+#header .count {
+    left: 35px;
+    font-size: 12px;
+    bottom: 30px;
+    padding: 0px 5px;
+}

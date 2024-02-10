@@ -1,0 +1,56 @@
+#cart table thead{
+
+    border-bottom: 2px solid white;
+    color: white;
+}
+
+#cart .img {
+    border: 1px solid rgb(183, 183, 183);
+    padding: 17px 0px;
+}
+
+#cart .cart {
+    padding: 4px 88px;
+    border: 2px solid rgb(238, 238, 238);
+    border-radius: 3px;
+    background-color: rgb(247, 247, 247);
+
+}
+
+#cart .cross {
+    font-weight: 900;
+    font-size: 23px;
+    padding: 2px 15px;
+}
+
+#cart td span p {
+
+    color: rgba(51, 51, 51, 0.502);
+}
+
+#cart td{
+
+    padding: 30px 0px;
+}
+
+
+#cart button {
+
+    padding: 15px 64px;
+}
+
+
+#cart .total {
+
+    padding: 30px 0px;
+    border:2px solid rgb(238, 238, 238);
+    background-color: rgb(247, 247, 247);
+
+}
+
+#cart .shipping {
+    padding: 30px 52px;
+    border: 2px solid rgb(238, 238, 238);
+    background-color: rgb(247, 247, 247);
+
+}
