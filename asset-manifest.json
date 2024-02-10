@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Ecommerce-Website/static/css/main.f592299b.css",
+    "main.js": "/Ecommerce-Website/static/js/main.8f2145bd.js",
+    "static/media/img2.jpg": "/Ecommerce-Website/static/media/img2.8dc0f6b96f081f8b9c20.jpg",
+    "static/media/img1.jpg": "/Ecommerce-Website/static/media/img1.cf06cb7f578ede08bfc8.jpg",
+    "static/media/banner.jpg": "/Ecommerce-Website/static/media/banner.1a6024b0f0f6df98442c.jpg",
+    "static/media/service.jpg": "/Ecommerce-Website/static/media/service.6ce6bd95909d25b8dfcd.jpg",
+    "static/media/bg.jpg": "/Ecommerce-Website/static/media/bg.068e408d7b9ce3fe3204.jpg",
+    "static/media/product4.png": "/Ecommerce-Website/static/media/product4.9ac1986973bbf65a3354.png",
+    "static/media/product2.png": "/Ecommerce-Website/static/media/product2.0b0a30ecbc414b9a8ca5.png",
+    "static/media/detail1.jpg": "/Ecommerce-Website/static/media/detail1.a2d6406e65722288cbd4.jpg",
+    "static/media/product3.png": "/Ecommerce-Website/static/media/product3.208287fb5bf28292fb26.png",
+    "static/media/product1.png": "/Ecommerce-Website/static/media/product1.9b3bf7d724067a32fc71.png",
+    "static/media/category (6).png": "/Ecommerce-Website/static/media/category (6).f8192de3affdbdac931e.png",
+    "static/media/category (3).png": "/Ecommerce-Website/static/media/category (3).c82b8f26c83d4fc3d199.png",
+    "static/media/category (1).png": "/Ecommerce-Website/static/media/category (1).0a7edfeedda75dc9af00.png",
+    "static/media/logo.png": "/Ecommerce-Website/static/media/logo.c2b155c90ff5ca9728a5.png",
+    "static/media/category (2).png": "/Ecommerce-Website/static/media/category (2).3111d7c370c645117ebf.png",
+    "static/media/category (4).png": "/Ecommerce-Website/static/media/category (4).e96f5447873c72aa36b2.png",
+    "static/media/png.png": "/Ecommerce-Website/static/media/png.44855e50e7c035b62e6f.png",
+    "static/media/category (5).png": "/Ecommerce-Website/static/media/category (5).cdacd03fa6bb2abab0ee.png",
+    "index.html": "/Ecommerce-Website/index.html",
+    "static/media/slick.svg": "/Ecommerce-Website/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Ecommerce-Website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Ecommerce-Website/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Ecommerce-Website/static/media/slick.295183786cd8a1389865.woff",
+    "main.f592299b.css.map": "/Ecommerce-Website/static/css/main.f592299b.css.map",
+    "main.8f2145bd.js.map": "/Ecommerce-Website/static/js/main.8f2145bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f592299b.css",
+    "static/js/main.8f2145bd.js"
+  ]
+}
